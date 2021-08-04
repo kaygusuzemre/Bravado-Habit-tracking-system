@@ -19,7 +19,7 @@
     <b-nav-item @click="logout()">
       <b-img src="/icons/svg/047-employee-5.svg" fluid/>
       <hr>
-      <span>Log out</span>
+      <span>Logout</span>
     </b-nav-item>
   </b-nav>
 </template>
